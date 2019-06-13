@@ -1,3 +1,23 @@
 = ETSI MANO with UBiqube OpenMSA - The Guide
 
 :author: mano@ubiqube.com
+
+:sectnums:
+:toc: left
+:toclevels: 3
+
+:toc!:
+
+
+== Overview
+
+The UBiqube implementation of the ETSI MANO specification API
+maps MANO objects and functionalities to UBiqube MSA Workflows.
+
+== Snippets
+
+=== Sample java
+[source, java]
+----
+include::snippets/HelloWorld.java
+----

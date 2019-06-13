@@ -18,5 +18,5 @@ maps MANO objects and functionalities to UBiqube MSA Workflows.
 === Sample java
 [source, java]
 ----
-include::snippets/HelloWorld.java
+include::snippets/HelloWorld.java[]
 ----
